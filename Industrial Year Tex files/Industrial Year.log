@@ -1,0 +1,597 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.11)  8 SEP 2014 16:20
+entering extended mode
+**C:/Users/Craig/Documents/Industrial*Year*Report/Industrial*Year.tex
+("C:/Users/Craig/Documents/Industrial Year Report/Industrial Year.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\hyphenat\hyphenat.sty"
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language1
+LaTeX Info: Redefining \_ on input line 43.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+("C:\Users\Craig\Documents\Industrial Year Report\Industrial Year.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(56.01874pt, 705.0pt, 84.0281pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=705.0pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-53.25125pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks19
+) <aber.png, id=1, 198.7425pt x 48.18pt>
+File: aber.png Graphic file (type png)
+ <use aber.png>
+Package pdftex.def Info: aber.png used on input line 27.
+(pdftex.def)             Requested size: 198.742pt x 48.17986pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+ [1
+
+
+
+pdfTeX warning: pdflatex.EXE (file pdftex.map): cannot open font map file
+ <C:/Users/Craig/Documents/Industrial Year Report/aber.png>]
+("C:\Users\Craig\Documents\Industrial Year Report\Industrial Year.toc")
+\tf@toc=\write3
+
+[2]
+Overfull \hbox (1.02113pt too wide) in paragraph at lines 81--88
+\OT1/cmr/m/n/12 This re-port is in-tend-ed to pro-vide a de-tailed con-tex-t an
+d e-val-u-a-tion of the in-dus-tri-al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
+
+ []
+
+
+Overfull \hbox (5.78636pt too wide) in paragraph at lines 113--121
+\OT1/cmr/m/n/12 al-low-ing trans-la-tion team-s to in-cor-po-rate the w-hole pr
+o-cess of this type of tran-si-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
+
+ []
+
+[3]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Overfull \hbox (5.1947pt too wide) in paragraph at lines 121--129
+\OT1/cmr/m/n/12 In ad-di-tion to this, the ap-pli-ca-tion was al-so used as a m
+ean-s of trans-la-tion com-pa-nies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--129
+
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--140
+
+ []
+
+[4]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+
+Overfull \hbox (1.11697pt too wide) in paragraph at lines 140--147
+\OT1/cmr/m/n/12 There is al-so the sales and mar-ket-ing team in Berlin, with t
+he sales team re-spon-si-ble
+ []
+
+
+Overfull \hbox (7.67523pt too wide) in paragraph at lines 140--147
+\OT1/cmr/m/n/12 de-vel-op-men-t team in Wrzburg, to give feed-back di-rect-ly a
+bout new im-ple-men-ta-tion-s,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--147
+
+ []
+
+
+Overfull \hbox (16.18636pt too wide) in paragraph at lines 147--153
+\OT1/cmr/m/n/12 team, the CAT team, and oth-er de-vel-op-er-s work-ing on the r
+est of the Busi-ness-Man-ag-er
+ []
+
+
+Overfull \hbox (13.49602pt too wide) in paragraph at lines 147--153
+\OT1/cmr/m/n/12 ap-pli-ca-tion (though this has var-i-ous sub-set-s of de-part-
+ments, such as the GUI(interface
+ []
+
+
+Overfull \hbox (5.26414pt too wide) in paragraph at lines 147--153
+\OT1/cmr/m/n/12 func-tion-al-i-ty, though these s-mal-l de-part-ments can chang
+e de-pend-ing on task pri-or-i-ty
+ []
+
+<ranks.png, id=26, 2151.03625pt x 1279.78125pt>
+File: ranks.png Graphic file (type png)
+ <use ranks.png>
+Package pdftex.def Info: ranks.png used on input line 155.
+(pdftex.def)             Requested size: 430.19963pt x 255.95172pt.
+
+Overfull \hbox (11.94595pt too wide) in paragraph at lines 155--156
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--174
+
+ []
+
+[5 <C:/Users/Craig/Documents/Industrial Year Report/ranks.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 174--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--188
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--195
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 196--204
+
+ []
+
+
+Overfull \hbox (19.03345pt too wide) in paragraph at lines 204--211
+\OT1/cmr/m/n/12 Alongside the t-wo pre-vi-ous lan-guages men-tioned, there was 
+al-so an ar-ray of web-related
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--211
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Overfull \hbox (2.41835pt too wide) in paragraph at lines 211--219
+\OT1/cmr/m/n/12 had to use to al-low for work to be per-formed on spe-cif-ic ve
+r-sion-s of Busi-ness-Man-ag-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--219
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--232
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--248
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--258
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 258--265
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--273
+
+ []
+
+
+Overfull \hbox (45.56235pt too wide) in paragraph at lines 273--282
+\OT1/cmr/m/n/12 sim-i-lar to Mem-o-Q, that some cus-tomer-s re-quest-ed to be a
+vail-able through Busi-ness-Man-ag-er.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--282
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 282--295
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Overfull \hbox (8.16273pt too wide) in paragraph at lines 295--304
+\OT1/cmr/m/n/12 an-oth-er in-te-gra-tion, but this time was s-light-ly d-if-fer
+-en-t and new to Busi-ness-Man-ag-er.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--304
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--318
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--324
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[11] [12] <cat.png, id=53, 2742.245pt x 1731.46875pt>
+File: cat.png Graphic file (type png)
+ <use cat.png>
+Package pdftex.def Info: cat.png used on input line 334.
+(pdftex.def)             Requested size: 658.15225pt x 415.56099pt.
+
+
+LaTeX Warning: Float too large for page by 27.04057pt on input line 337.
+
+[13 <C:/Users/Craig/Documents/Industrial Year Report/cat.png>]
+<sales.png, id=59, 3933.69624pt x 2266.4675pt>
+File: sales.png Graphic file (type png)
+ <use sales.png>
+Package pdftex.def Info: sales.png used on input line 343.
+(pdftex.def)             Requested size: 629.40427pt x 362.64221pt.
+ [14 <C:/Users/Craig/Documents/Industrial Year Report/sales.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--373
+
+ []
+
+
+Overfull \hbox (17.2642pt too wide) in paragraph at lines 373--382
+\OT1/cmr/m/n/12 A very ma-jor point I should men-tion here is the style of the 
+ac-tu-al code, doc-u-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--382
+
+ []
+
+[15
+
+
+
+
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--405
+
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 419--424
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--430
+
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 458--458
+[]\OT1/cmr/m/n/12 Diagram a-mend-ments and 'out of hours'
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 462--462
+[]\OT1/cmr/m/n/12 Addition of ref-er-ences and proof-read of
+ []
+
+
+Overfull \hbox (7.29196pt too wide) in paragraph at lines 442--471
+[] 
+ []
+
+[17
+
+] [18] ("C:\Users\Craig\Documents\Industrial Year Report\Industrial Year.aux") 
+) 
+Here is how much of TeX's memory you used:
+ 1782 strings out of 495352
+ 24676 string characters out of 3183046
+ 84589 words of memory out of 3000000
+ 4956 multiletter control sequences out of 15000+200000
+ 10142 words of font info for 35 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,8n,19p,293b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Craig\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi600\cmt
+i12.pk> <C:\Users\Craig\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi6
+00\cmbx12.pk> <C:\Users\Craig\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\c
+m\dpi864\cmbx12.pk> <C:\Users\Craig\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\pu
+blic\cm\dpi600\cmr12.pk> <C:\Users\Craig\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\public\cm\dpi600\cmsl12.pk> <C:\Users\Craig\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\public\cm\dpi864\cmcsc10.pk> <C:\Users\Craig\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\public\cm\dpi720\cmr12.pk> <C:\Users\Craig\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\public\cm\dpi720\cmti12.pk> <C:\Users\Craig\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi1244\cmbx12.pk> <C:\Users\Craig\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi1037\cmcsc10.pk>
+Output written on "Industrial Year.pdf" (18 pages, 685865 bytes).
+PDF statistics:
+ 385 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
